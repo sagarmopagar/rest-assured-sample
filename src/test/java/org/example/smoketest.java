@@ -9,7 +9,7 @@ public class smoketest {
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue() {
+    public void test1() {
         assertTrue(true);
         System.out.println("hello");
     }
