@@ -13,4 +13,13 @@ public class smoketest {
         assertTrue(true);
         System.out.println("hello");
     }
+
+    /**
+     * Adding a second test
+     */
+    @Test
+    public void test2() {
+
+        System.out.println("Second test");
+    }
 }
